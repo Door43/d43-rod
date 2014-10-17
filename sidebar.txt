@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rod:home|Door43 (rod)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rod|d43-rod repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rod/archive/master.zip|d43-rod.zip]]
+
+**Recent Changes**
+{{changes>ns = rod}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rod|Ethnologue data]]
+
